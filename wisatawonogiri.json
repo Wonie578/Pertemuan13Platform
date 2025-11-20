@@ -1,0 +1,32 @@
+{
+  "result": [
+    {
+      "nama": "Bukit Cumbri",
+      "lokasi": "Pejo, Donorojo, Kabupaten Wonogiri, Jawa Tengah",
+      "deskripsi": "Bukit Cumbri terkenal sebagai tempat pendakian ringan dengan pemandangan sunrise, hamparan awan, dan panorama alam di perbatasan Jawa Tengah dan Jawa Timur.",
+      "akses": "Dapat ditempuh dengan kendaraan roda dua maupun empat, lalu trekking sekitar 30-45 menit.",
+      "gambar": "https://raw.githubusercontent.com/Wonie578/Pertemuan13Platform/refs/heads/main/bukit_cumbri.jpg"
+    },
+    {
+      "nama": "Telaga Claket",
+      "lokasi": "Desa Sendang, Wonogiri, Jawa Tengah",
+      "deskripsi": "Telaga alami yang dikelilingi pepohonan rindang, suasananya tenang dan cocok untuk memancing serta wisata keluarga.",
+      "akses": "Akses mudah, dapat dijangkau dengan motor dan mobil melalui jalan desa yang sudah beraspal.",
+      "gambar": "https://raw.githubusercontent.com/Wonie578/Pertemuan13Platform/refs/heads/main/telaga_celaket.jpg"
+    },
+    {
+      "nama": "Banyu Langit",
+      "lokasi": "Bulukerto, Purwantoro, Wonogiri",
+      "deskripsi": "Wisata alam perbukitan dengan spot foto gardu pandang, pemandangan perbukitan hijau, dan udara sejuk.",
+      "akses": "Dapat dijangkau dengan kendaraan pribadi, kondisi jalan relatif baik namun sedikit menanjak.",
+      "gambar": "https://raw.githubusercontent.com/Wonie578/Pertemuan13Platform/refs/heads/main/banyu_langit.jpg"
+    },
+    {
+      "nama": "Waduk Gajah Mungkur",
+      "lokasi": "Gelang, Jebres, Wonogiri",
+      "deskripsi": "Waduk besar sebagai ikon Wonogiri dengan fasilitas wisata seperti perahu, taman bermain, restoran apung, dan olahraga air.",
+      "akses": "Lokasi sangat mudah dijangkau, berada dekat pusat kota Wonogiri dengan akses kendaraan umum dan pribadi.",
+      "gambar": "https://raw.githubusercontent.com/Wonie578/Pertemuan13Platform/refs/heads/main/waduk_gajah_mungkur.jpg"
+    }
+  ]
+}
