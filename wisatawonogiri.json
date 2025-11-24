@@ -27,6 +27,49 @@
       "deskripsi": "Waduk besar sebagai ikon Wonogiri dengan fasilitas wisata seperti perahu, taman bermain, restoran apung, dan olahraga air.",
       "akses": "Lokasi sangat mudah dijangkau, berada dekat pusat kota Wonogiri dengan akses kendaraan umum dan pribadi.",
       "gambar": "https://raw.githubusercontent.com/Wonie578/Pertemuan13Platform/refs/heads/main/waduk_gajah_mungkur.jpg"
+    },
+
+    {
+      "nama": "Museum Karst Indonesia",
+      "lokasi": "Gebangharjo, Pracimantoro, Wonogiri",
+      "deskripsi": "Museum edukasi terbesar di Asia Tenggara yang menampilkan informasi geologi, batuan karst, fosil, dan ekosistem bawah tanah.",
+      "akses": "Akses mudah, dapat ditempuh menggunakan kendaraan pribadi menuju kawasan wisata karst Pracimantoro.",
+      "gambar": "https://raw.githubusercontent.com/Wonie578/Pertemuan13Platform/refs/heads/main/museum_karst.png"
+    },
+    {
+      "nama": "Pantai Sembukan",
+      "lokasi": "Paranggupito, Wonogiri, Jawa Tengah",
+      "deskripsi": "Pantai eksotis berpasir putih dengan ombak besar dan suasana alami, dikenal juga sebagai lokasi ritual masyarakat setempat.",
+      "akses": "Dapat ditempuh dengan motor atau mobil melalui jalan berkelok khas daerah pesisir selatan.",
+      "gambar": "https://raw.githubusercontent.com/Wonie578/Pertemuan13Platform/refs/heads/main/pantai_sembukan.png"
+    },
+    {
+      "nama": "Air Terjun Setren Girimanik",
+      "lokasi": "Setren, Slogohimo, Wonogiri",
+      "deskripsi": "Air terjun indah yang berada di kawasan pegunungan dengan udara sejuk, memiliki tiga air terjun utama yang masih alami.",
+      "akses": "Dapat dijangkau dengan kendaraan lalu berjalan kaki sekitar 10-15 menit menuju lokasi air terjun.",
+      "gambar": "https://raw.githubusercontent.com/Wonie578/Pertemuan13Platform/refs/heads/main/air_terjun_setren_girimanik.png"
+    },
+    {
+      "nama": "Goa Putri Kencana",
+      "lokasi": "Wonogiri bagian selatan",
+      "deskripsi": "Goa alami dengan lorong-lorong batu kapur dan stalaktit indah, cocok untuk pecinta wisata petualangan dan fotografi.",
+      "akses": "Jalan bisa ditempuh kendaraan pribadi, dilanjutkan dengan sedikit berjalan kaki masuk ke area goa.",
+      "gambar": "https://raw.githubusercontent.com/Wonie578/Pertemuan13Platform/refs/heads/main/goa_putri_kencana.png"
+    },
+    {
+      "nama": "Pantai Nampu",
+      "lokasi": "Dringo, Paranggupito, Wonogiri",
+      "deskripsi": "Pantai dengan pasir putih dan tebing indah, terkenal dengan ombak besar serta pemandangan sunset yang eksotis.",
+      "akses": "Akses melalui jalan cukup menantang namun bisa dilewati motor dan mobil.",
+      "gambar": "https://raw.githubusercontent.com/Wonie578/Pertemuan13Platform/refs/heads/main/pantai_nampu.png"
+    },
+    {
+      "nama": "Puncak Joglo Paralayang",
+      "lokasi": "Sendang, Wonogiri",
+      "deskripsi": "Spot paralayang terkenal dengan panorama Waduk Gajah Mungkur dan perbukitan hijau dari ketinggian.",
+      "akses": "Lokasi dapat dicapai dengan motor atau mobil, jalannya menanjak namun sudah cukup baik.",
+      "gambar": "https://raw.githubusercontent.com/Wonie578/Pertemuan13Platform/refs/heads/main/puncak_joglo_paralayang.png"
     }
   ]
 }
